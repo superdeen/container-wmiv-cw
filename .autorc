@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "superdeen",
+  "repo": "container-wmiv-cw",
+  "name": "superdeen",
+}
